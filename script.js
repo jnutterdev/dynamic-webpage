@@ -1,3 +1,5 @@
+document.head.innerHTML += '<link rel="stylesheet" type="text/css" href="style.css" />';
+
 document.getElementById("container").innerHTML = `
     <div class="headerNav">
 
